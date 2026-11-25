@@ -1,0 +1,4 @@
+﻿.agents/
+sourcemap.json
+*.rbxl.lock
+*.rbxlx.lock
